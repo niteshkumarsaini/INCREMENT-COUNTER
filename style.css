@@ -1,0 +1,41 @@
+body{
+    background-color:rgba(0, 0, 255, 0.533);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 97vh;
+    
+}
+i{
+    font-size: 100px;
+    color: rgba(255, 255, 255, 0.774);
+    margin: -20px 200px;
+}
+section{
+    display: flex;
+}
+
+.img{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.num{
+
+    /* color: red; */
+    margin-top: 45px;
+    font-size: 70px;
+    color: white;
+ 
+}
+.text{
+    /* color: red; */
+    margin-top: -50px;
+    font-size: 27px;
+    color: white;
+
+}
+footer{
+    height: 100px;
+    background-color: black;
+}
